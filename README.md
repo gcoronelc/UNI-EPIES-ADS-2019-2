@@ -18,10 +18,12 @@
 
 # ENLACES
 
-## Teoria de sistemas
+## Cursos Virtuales
 
-- Teoria General de Sistemas: https://youtu.be/ROdDFC4eUJ8
-- Teoria de Sistemas: https://youtu.be/ZWWWxFR0iEw
+- Java Fundamentos: https://www.youtube.com/watch?v=MzFfkeuRAd8&list=PLIRq7nByT7aT_1wuNdJXhIFMLpJO1PKUc
+- Java Orientado a Objetos: https://www.youtube.com/watch?v=EKlwF12-l9Y&list=PLIRq7nByT7aRuBgD4UVRjrcUZFM8Fkbut
+- Java CLIENTE-SERVIDOR: https://www.youtube.com/watch?v=MR53Xgeg28Y&list=PLIRq7nByT7aQlHn2S4gBdEQZXfgYMMKC2
+- Java Web: https://www.youtube.com/watch?v=HmXzOms6rvA&list=PLIRq7nByT7aTdpBXMuBjb-TL2kvrUpazI
 
 ## Arquitectura de Software
 
