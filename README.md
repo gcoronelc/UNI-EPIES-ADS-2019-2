@@ -12,6 +12,7 @@
 # DOCENTE
 
 - Docente: Eric Gustavo Coronel Castillo
+- Email: gcoronel@uni.edu.pe
 - Blog: www.desarrollasoftware.com
 - Canal Youtube: https://bit.ly/2BWvikz
 
