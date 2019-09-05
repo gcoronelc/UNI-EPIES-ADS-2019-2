@@ -1,0 +1,38 @@
+-- CLONAR EL REPOSITORIO
+-- ==============================
+
+D:\EGCC\PortableGit> git clone https://github.com/gcoronelc/UNI-EPIES-ADS-2019-2.git
+Cloning into 'UNI-EPIES-ADS-2019-2'...
+remote: Enumerating objects: 32, done.
+remote: Counting objects: 100% (32/32), done.
+remote: Compressing objects: 100% (21/21), done.
+remote: Total 32 (delta 7), reused 27 (delta 5), pack-reused 0
+Unpacking objects: 100% (32/32), done.
+
+D:\EGCC\PortableGit>dir
+ El volumen de la unidad D es Datos
+ El número de serie del volumen es: 8E1D-1458
+
+ Directorio de D:\EGCC\PortableGit
+
+05/09/2019  14:27    <DIR>          .
+05/09/2019  14:27    <DIR>          ..
+05/09/2019  14:21    <DIR>          bin
+05/09/2019  14:21    <DIR>          cmd
+05/09/2019  14:22    <DIR>          dev
+05/09/2019  14:22    <DIR>          etc
+15/12/2018  04:30           148.760 git-bash.exe
+15/12/2018  04:30           148.248 git-cmd.exe
+15/12/2018  05:09            18.765 LICENSE.txt
+05/09/2019  14:21    <DIR>          mingw32
+24/08/2018  15:51             3.738 README.portable
+15/12/2018  05:09    <DIR>          tmp
+05/09/2019  14:27    <DIR>          UNI-EPIES-ADS-2019-2
+05/09/2019  14:21    <DIR>          usr
+               4 archivos        319.511 bytes
+              10 dirs  155.535.966.208 bytes libres
+			  
+			  
+
+
+
