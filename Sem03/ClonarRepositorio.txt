@@ -31,8 +31,9 @@ D:\EGCC\PortableGit>dir
 05/09/2019  14:21    <DIR>          usr
                4 archivos        319.511 bytes
               10 dirs  155.535.966.208 bytes libres
+
 			  
-			  
+D:\EGCC\PortableGit\UNI-EPIES-ADS-2019-2>git pull			  
 
 
 
