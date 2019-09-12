@@ -19,6 +19,18 @@
 
 # ENLACES
 
+
+# Repositorios
+
+- Databases: https://github.com/gcoronelc/databases
+- Recursos: https://github.com/gcoronelc/recursos
+
+# RUP
+
+- Enlace 1: https://youtu.be/AY5Dh3XYshk
+- Enlace 2: https://youtu.be/tbnU0jZzKTE
+- Enlace 3: https://youtu.be/PAY1fpdtzrk
+
 ## Cursos Virtuales
 
 - Java Fundamentos: https://www.youtube.com/watch?v=MzFfkeuRAd8&list=PLIRq7nByT7aT_1wuNdJXhIFMLpJO1PKUc
